@@ -1,4 +1,4 @@
-Hello. My name is Peyton Kelly. At the time of writing this, im a 16 y/o C/C++ and Fortran dev from Pa working from a school computer.
+Hello. My name is Peyton Kelly. At the time of writing this, im a 18 y/o C/C++ and Fortran dev from Pa working from a school computer.
 Coding and computer science have been my passion since I started highschool and it hasn't gone away since. I hope that my Fortran IDE will be complete and
 available to everyone some day.
 
